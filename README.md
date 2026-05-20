@@ -8,3 +8,5 @@ helps you install nginx and show a demo page
 
 sudo apt-get update
 sudo apt install nginx
+
+webpage
