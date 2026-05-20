@@ -7,6 +7,11 @@ helps you install nginx and show a demo page
 ## steps
 
 sudo apt-get update
+
 sudo apt install nginx
 
+<<<<<<< HEAD
 webpage
+=======
+webpage is available 
+>>>>>>> a6f0bef (added webpage)
